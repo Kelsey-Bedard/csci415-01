@@ -1,0 +1,46 @@
+
+CPU Run Time: 0.38221 sec
+
+GPU Memory Allocation: : 0.1146 sec
+
+GPU Memory Copy to Device: : 0.01235 sec
+
+Kernel Run Time: : 3.7e-05 sec
+
+GPU Memory Copy to Host: : 0.012945 sec
+
+Total GPU run time: : 0.14004 sec
+Result comparison passed.
+
+
+
+
+
+
+CPU Run Time: 0.38231 sec
+
+GPU Memory Allocation: : 0.11724 sec
+
+GPU Memory Copy to Device: : 0.012549 sec
+
+Kernel Run Time: : 3.6e-05 sec
+
+GPU Memory Copy to Host: : 0.01379 sec
+
+Total GPU run time: : 0.14372 sec
+Result comparison passed.
+
+
+
+CPU Run Time: 0.38148 sec
+
+GPU Memory Allocation: : 0.11495 sec
+
+GPU Memory Copy to Device: : 0.012858 sec
+
+Kernel Run Time: : 3.9e-05 sec
+
+GPU Memory Copy to Host: : 0.013521 sec
+
+Total GPU run time: : 0.14148 sec
+Result comparison passed.
